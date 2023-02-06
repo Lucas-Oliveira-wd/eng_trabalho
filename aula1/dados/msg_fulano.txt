@@ -1,0 +1,33 @@
+*Preco dos Itens*
+
+*Caneta:*
+_Custo_: R$ 0,02 cada unidade x 170 unidades = R$ 3,40
+_Meu Trabalho_: R$ 0,30 cada unidade x 170 unidades = R$ 51,00
+_Total_: R$ 3,40 + R$ 51,00 = R$ 54,40
+
+*Caixinha Quadradas*
+_Custo_: R$ 0,88 cada unidade x 19 unidades = R$ R$ 16,72
+_Meu Trabalho_: R$ 0,80 cada unidade x 19 unidades = R$ 15,20
+_Total_: R$ 16,72 + R$ 15,20 = R$ 31,92
+
+*Sacolinhas*
+_Custo_: R$ 0,29 cada unidade x 151 unidades = R$ 43,79
+_Meu Trabalho_: R$ 0,80 cada unidade x 151 unidades = R$ 120,80
+_Total_: R$ 43,79 + R$ 120,80 = R$ 164,59
+
+*Caderninhos*
+_Custo (Apenas impressão)_: R$ 0,11 cada unidade x 170 = R$ 18,70
+*Observacão:* como não fiz a montagem, logo não cobrarei pelo trabalho
+
+*Rótulos dos Halls*
+_Custo (Apenas impressão)_: R$ 0,02 cada unidade x 170 = R$ 3,40
+*Observacão:* como não fiz a montagem, logo não cobrarei pelo trabalho
+
+*PRECO TOTAL*
+- Caneta: R$ 54,40
+- Caixinha Quadradas: R$ 31,92
+- Sacolinhas: R$ 164,59
+- Caderninhos: R$ 18,70
+- Rótulos dos Halls: R$ 3,40
+*_Total_: R$ 273,00*
+

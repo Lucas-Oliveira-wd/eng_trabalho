@@ -1,0 +1,34 @@
+#Entrando com dados no R
+dados=read.table(file.choose(),head=T,dec=",")
+
+#Ativando pacotes
+library(psy)
+library(psych)
+library(MASS)
+library(mirt)
+library(lavaan)
+library(semTools)
+library(semPlot)
+library(lavaan)
+
+#Calculando o alfa de Cronbach
+alpha(dados)
+
+#Calculando o Ômega de McDonald
+omega(dados)
+
+#Calculando o KMO
+KMO(dados)
+
+#Calculando a esfericidade de Bartlett
+bartlett.test(dados)
+
+#Continuamos com o modelo logístico de 2 parâmetros
+m1=mirt(dados,1,'2PL’)
+
+#Para apresentar o resultado da Análise Fatorial
+summary(m1)
+
+#Análise paralela
+fa.parallel(dados, cor="tet", fa="pc", sim=FALSE)
+
